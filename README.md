@@ -1,3 +1,5 @@
+[ ![Codeship Status for PhilippMeissner/heroku-proof-of-concept](https://app.codeship.com/projects/28b44380-7927-0136-9769-26a16079ce57/status?branch=master)](https://app.codeship.com/projects/300488)
+
 # HerokuProofOfConcept
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
